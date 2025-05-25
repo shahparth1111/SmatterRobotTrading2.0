@@ -1,4 +1,4 @@
-# SmatterRobotTrading
+# SmatterRobotTrading2.0
 
 **SmatterRobotTrading** is a proprietary robotic trading algorithm capable of autonomously selecting stocks, performing technical analysis, executing trades, and repeating the process without human intervention. It is built for speed, accuracy, and continuous adaptation to market conditions.
 
